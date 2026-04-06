@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PryFuenzalida260401
 {
-    public partial class Form1 : Form
+    public partial class Frm1 : Form
     {
-        public Form1()
+        public Frm1()
         {
             InitializeComponent();
         }
@@ -24,7 +24,7 @@ namespace PryFuenzalida260401
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            ''
         }
     }
 }
